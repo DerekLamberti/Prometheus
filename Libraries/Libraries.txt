@@ -1,0 +1,3 @@
+Libraries for the Prometheus project.
+
+Externally supplied libraries can be found @..\External\
