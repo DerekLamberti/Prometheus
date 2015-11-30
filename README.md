@@ -12,3 +12,6 @@ These helper classes/libraries include:
 * Logging
 * FileIO/Serialisation/Streams
 * Random number generators
+* Produce patchable binary diff of arbitrary buffers.
+* Geometry manipulation
+  * Best fit bounding box for arbitary point cloud
