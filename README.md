@@ -14,4 +14,6 @@ These helper classes/libraries include:
 * Random number generators
 * Produce patchable binary diff of arbitrary buffers.
 * Geometry manipulation
-  * Best fit bounding box for arbitary point cloud
+  * Best fit bounding box for arbitary point set
+  * Delaunay triangulation of arbitrary 2D point set
+  * Tetrahedralisation from arbitrary 3D point set
