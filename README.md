@@ -11,3 +11,4 @@ These helper classes/libraries include:
 * Memory Allocators
 * Logging
 * FileIO/Serialisation/Streams
+* Random number generators
