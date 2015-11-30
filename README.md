@@ -18,4 +18,7 @@ These helper classes/libraries include:
   * Best fit bounding box for arbitary point set
   * Delaunay triangulation of arbitrary 2D point set
   * Tetrahedralisation from arbitrary 3D point set
-  * Mesh sanitiser (Intersecting geometry)
+  * Mesh sanitiser (Preserves topology)
+	* Split intersecting geometry
+	* Remove hidden geometry
+	* Optimise geometry
